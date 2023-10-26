@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class creditcard {
 	public static void main(String[] args) {
-		/**Create a Scanner*/
     Scanner input = new Scanner(System.in); 
 
 		/**Asks the user to enter a credit card number */
